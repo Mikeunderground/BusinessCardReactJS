@@ -1,0 +1,74 @@
+.CardBody {
+    color: white;
+    width: 317px;
+    height: 399px;
+    font-family: 'Inter';
+   
+}
+
+.CardHeader {
+    width: 201px;
+    background-color: #1a1b21;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+.CardBody > .CardHeader > h2{
+    margin: 20px auto 6.19px auto;
+    font-size: 18;
+    font-weight: bold;
+
+    
+}
+
+.jobTitle {
+    color: #f3bf99;
+    font-size: 12.8px;
+    margin-top: -2px;
+    font-weight: 400;
+    
+}
+
+.websiteLink {
+    color: #f5f5f5;
+    line-height: 150%;
+    text-decoration: none;
+    font-size: 10px;
+    margin: 0px 0px 0px 0px;
+    cursor: default;
+    position: relative;
+    top: -23px;
+}
+
+.websiteLink::hover {
+    border-bottom: 2px;
+    border-color: blue;
+}
+
+.MajorButtonGroup {
+    background-color: #1a1b21;
+}
+
+.blurb {
+    background-color: #1a1b21;
+    width: 250px;
+    margin: 40px auto;
+
+}
+
+.blurb > h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-bottom: 0;
+    text-align: left;
+}
+
+.blurb > p {
+    font-weight: 300;
+    font-size: x-small;
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 150%;
+    text-align: left;
+}

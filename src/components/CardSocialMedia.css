@@ -1,0 +1,19 @@
+.Footer {
+    height: 64px;
+    width: 100%;
+    background-color: #161619;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+
+.SocialIcon {
+    color: #918E9B;
+    margin-left: 25px;
+}
+
+.SocialIcon:last-child {
+    padding-right: 20px;
+}

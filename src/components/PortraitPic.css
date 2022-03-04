@@ -1,0 +1,16 @@
+.PicContainer {
+    height: 317px;
+    width: 317px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.PicContainer >img {
+    height: 317px;
+    width: 317px;
+   background-color: bisque;
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+    object-position: 0% 10%;
+}
+

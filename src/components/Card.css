@@ -1,0 +1,16 @@
+.Container {
+    height: 869px;
+    width: 550px;
+    background-color: #23252c;
+}
+
+.Card {
+    font-family: "inter", sans-serif;
+    height: 780px;
+    width: 317px;
+    border-radius: 25px;
+    border: 0 0 0 0;
+    background-color: #1a1b21;
+    margin: 0 auto;
+}
+
